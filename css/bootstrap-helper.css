@@ -1,0 +1,22 @@
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.v-gap-5 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.v-gap-10 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.v-gap-15 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.v-gap-top-5 {
+    margin-top: 
+}
